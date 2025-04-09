@@ -62,4 +62,5 @@ This license agreement will be governed by and construed in accordance with the 
 
 ---
 
-**By using this software, you acknowledge that you have read and agree to the terms of this license agreement.**
+**By using this software, you acknowledge that you have read and agree to the terms of this license agreement.**.
+also the code is bullshit and does not work
